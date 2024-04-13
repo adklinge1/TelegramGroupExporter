@@ -83,7 +83,7 @@ To access the UI, open your web browser and navigate to http://localhost:5000 af
 
 ## Personal Note
 
-The project was carried out as part of the 2024 Dikehathon event and is dedicated to "זיכרון 710" organization, for the commemoration of the events of 10/7 in Israel.
+The project was carried out as part of the 2024 Dykehathon event and is dedicated to "זיכרון 710" organization, for the commemoration of the events of 10/7 in Israel.
 
 
 ## Contact
